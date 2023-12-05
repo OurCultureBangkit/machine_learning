@@ -1,30 +1,30 @@
 Arit
 Golok
-angkepPala
-badong
-badongKulit
-gelangKanaKulit
-keris cuntrik
-keris lurus
-keris lurus batok budo
-keris_luk lima
-keris_luk sebelas
-maskBujuh
-maskDalem
-maskKeras
-maskPenasar
-maskSidakarya
-maskTua
-maskWijil
+Angkep Pala
+Badong
+Badong Kulit
+Gelang Kana Kulit
+Keris Cuntrik
+Keris Lurus
+Keris Lurus Batok Budo
+Keris Luk Lima
+keris Luk Sebelas
+Mask Bujuh
+Mask Dalem
+Mask Keras
+Mask Penasar
+Mask Sidakarya
+Mask Tua
+Mask Wijil
 tombak
-wayangArjuna
-wayangBagong
-wayangBatharaSurya
-wayangBatharaWisnu
-wayangGareng
-wayangNakula
-wayangPetruk
-wayangSadewa
-wayangSemar
-wayangWerkudara
-wayangYudistira
+Wayang Arjuna
+Wayang Bagong
+Wayang Bathara Surya
+Wayang Bathara Wisnu
+Wayang Gareng
+Wayang Nakula
+Wayang Petruk
+Wayang Sadewa
+Wayang Semar
+Wayang Werkudara
+Wayang Yudistira
