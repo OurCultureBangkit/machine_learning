@@ -27,7 +27,7 @@ def index():
     return jsonify({
         "status":{
             "code": 200,
-            "massage": "Success fetching the API",
+            "message": "Success fetching the API",
         },
         "data": None
     }), 200
@@ -75,7 +75,7 @@ def prediction():
         return jsonify({
             "status": {
                 "code": 405,
-                "massage": "Method not allowed"
+                "message": "Method not allowed"
             }, 
             "data": None
         }), 405
