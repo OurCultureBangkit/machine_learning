@@ -51,7 +51,6 @@ def prediction():
             predict = model.predict(img)
             best_index = np.argmax(predict)
             class_name = labels[best_index]
-            class_information = information[best_index]
 
             return jsonify({
                 "status": {
@@ -59,8 +58,7 @@ def prediction():
                     "message": "Register Success"
                 },
                 "data": {
-                    "Class": class_name,
-                    "Informasi": class_information
+                    "title": class_name
                 }
             }), 200
         else:
