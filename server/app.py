@@ -18,9 +18,6 @@ model = load_model("model.h5", compile=False)
 with open("labels.txt", "r") as file:
     labels = file.read().splitlines()
 
-with open("labelInformation.txt", "r") as file:
-    information = file.read().splitlines()
-
 
 @app.route("/")
 def index():
