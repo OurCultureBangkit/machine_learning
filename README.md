@@ -11,7 +11,7 @@ The project is based from Google Colab (due to limited system requirements of ou
 1. Load Dataset
    - Link : [https://drive.google.com/drive/folders/14QNe840UxAj_Xr1O48hXKkKKSbzrGzn4?usp=drive_link](https://drive.google.com/drive/folders/14QNe840UxAj_Xr1O48hXKkKKSbzrGzn4?usp=drive_link)
 2. Pre-processing Data
-   - Spliting dataset using split-folder into
+   - Spliting dataset using library split-folder into
        - 80% training data
        - 20% validation data
     - Data augmantion using ImageDataGenerator class of Keras
