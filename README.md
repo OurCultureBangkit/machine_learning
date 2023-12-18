@@ -19,7 +19,7 @@ The project is based from Google Colab (due to limited system requirements of ou
 4. Training
    - Using transfer learning
    - Using base model Inception v3
-   - Using binary_crossentropy as loss
+   - Using categorical_crossentropy as loss
    - Using Adam as optimizer
    - Added more layer to make the model accuracy better
       - Added Conv2D(32, (3, 3), activation='relu') layer
@@ -29,7 +29,7 @@ The project is based from Google Colab (due to limited system requirements of ou
       - Added Dense(2048, activation='relu') layer
       - Added Dropout(0.2) layer
       - Added output layer Dense(30, activation='softmax')
-    - Trainign with 50 epochs
+    - Training with 50 epochs
     - The result:
         - training accuracy: 95%
         - validation accuracy: 91%
